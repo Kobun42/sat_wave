@@ -15,3 +15,4 @@ TODO:
   - Derby Stallion 96 (1.2.129.0, 1.2.129.16)
   
   yeah i just forked this to have the latest version bc why not
+i'm just fiddling with this bc i can lol
